@@ -1,9 +1,5 @@
 -------------------------------------------------------------------------------------------
 
-<p align="center"><img width="auto" src="https://user-images.githubusercontent.com/43478328/232266908-98682baa-aedd-486d-a0cf-543fd9520b3a.png" /></p>
-
--------------------------------------------------------------------------------------------
-
 # [DeepLearning.AI - Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
 *This Repository Contains Solution to the Assignments of the Natural Language Processing Specialization from Deeplearning.ai on Coursera Taught by 
 [Younes Bensouda Mourri](https://www.coursera.org/instructor/ymourri),
@@ -57,7 +53,7 @@ flowchart TD
 In the first course of the Machine Learning Specialization, you will:
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
 
-* [Natural Language Processing with Classification and Vector Spaces](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
+* [Natural Language Processing with Classification and Vector Spaces](https://github.com/vinic-costa/NLP-Course-Coursera/tree/main/Course-1-Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces)
 
 ### COURSE 2
 ### Natural Language Processing with Probabilistic Models
@@ -65,31 +61,31 @@ In the first course of the Machine Learning Specialization, you will:
 In the second course of the Machine Learning Specialization, you will:
 - Use dynamic programming, hidden Markov models, and word embeddings to implement autocorrect, autocomplete & identify part-of-speech tags for words.
 
-* [Natural Language Processing with Probabilistic Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
+* [Natural Language Processing with Probabilistic Models](https://github.com/vinic-costa/NLP-Course-Coursera/tree/main/Course-2-Natural%20Language%20Processing%20with%20Probabilistic%20Models)
 
 ### COURSE 3
 ### Natural Language Processing with Sequence Models
 In the third course of the Machine Learning Specialization, you will:
 - Use recurrent neural networks, LSTMs, GRUs & Siamese networks in Trax for sentiment analysis, text generation & named entity recognition.
 
-* [Natural Language Processing with Sequence Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-3-Natural%20Language%20Processing%20with%20Sequence%20Models)
+* [Natural Language Processing with Sequence Models](https://github.com/vinic-costa/NLP-Course-Coursera/tree/main/Course-3-Natural%20Language%20Processing%20with%20Sequence%20Models)
 
 ### COURSE 4
 ### Natural Language Processing with Attention Models
 In the forth course of the Machine Learning Specialization, you will:
 - Use encoder-decoder, causal, & self-attention to machine translate complete sentences, summarize text, build chatbots & question-answering.
 
-* [Natural Language Processing with Attention Models](https://github.com/shantanu1109/Coursera-DeepLearning.AI-Natural-Language-Processing-Specialization/tree/main/Course-4-Natural%20Language%20Processing%20with%20Attention%20Models)
+* [Natural Language Processing with Attention Models](https://github.com/vinic-costa/NLP-Course-Coursera/tree/main/Course-4-Natural%20Language%20Processing%20with%20Attention%20Models)
 
 -------------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [Natural Language Processing with Classification and Vector Spaces](https://www.coursera.org/account/accomplishments/verify/32C5MY5Q8HGL)
-2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/verify/ZPA6R3Q7CGQT)
-3. [Natural Language Processing with Sequence Models](https://www.coursera.org/account/accomplishments/verify/NRECCG8ZHAQC)
-4. [Natural Language Processing with Attention Models](https://www.coursera.org/account/accomplishments/verify/J7468XUNLKNU)
-5. [Natural Language Processing Specialization (Final Certificate)](https://www.coursera.org/account/accomplishments/specialization/VYCCGB737HN3)
+1. [Natural Language Processing with Classification and Vector Spaces](https://coursera.org/verify/4BCCLYLBZUS7)
+2. [Natural Language Processing with Probabilistic Models](https://coursera.org/verify/4KWRTZYG5787)
+3. [Natural Language Processing with Sequence Models](https://coursera.org/verify/VPYCDDPDN9VY)
+4. [Natural Language Processing with Attention Models](https://coursera.org/verify/HCPLFY67R3ST)
+5. [Natural Language Processing Specialization (Final Certificate)](https://coursera.org/verify/specialization/GYE59EWDP4AK)
 
 --------------------------------------------------------------------------------------------------------------
 
